@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Life_Fertility_Lab_Queue_Task1</fullName>
+    <filterScope>Queue</filterScope>
+    <label>Life Fertility Lab Queue</label>
+    <queue>Life_Fertility_Lab_Queue</queue>
+    <sharedTo>
+        <allInternalUsers></allInternalUsers>
+    </sharedTo>
+</ListView>

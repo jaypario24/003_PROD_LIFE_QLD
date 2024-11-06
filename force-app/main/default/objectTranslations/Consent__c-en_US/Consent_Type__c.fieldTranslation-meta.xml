@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Consent Type --></label>
+    <name>Consent_Type__c</name>
+    <picklistValues>
+        <masterLabel>ART - Assisted Reproductive Technology Procedures - GENdoc2</masterLabel>
+        <translation><!-- ART - Assisted Reproductive Technology Procedures - GENdoc2 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Confirmation of Personal Details and Fertility History - GENdoc72</masterLabel>
+        <translation><!-- Confirmation of Personal Details and Fertility History - GENdoc72 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Confirmation of Personal Details and Fertility History – GENdoc72</masterLabel>
+        <translation><!-- Confirmation of Personal Details and Fertility History – GENdoc72 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Consent for IUI - GENdoc17</masterLabel>
+        <translation><!-- Consent for IUI - GENdoc17 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Consent for Superovulation Therapy - GENdoc16</masterLabel>
+        <translation><!-- Consent for Superovulation Therapy - GENdoc16 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Consent to Donate Embryos – GENdoc22</masterLabel>
+        <translation><!-- Consent to Donate Embryos – GENdoc22 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Consent to Donate Sperm – GENdoc21</masterLabel>
+        <translation><!-- Consent to Donate Sperm – GENdoc21 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Consent to Embryo Biopsey &amp;PGT A for Aneuploidy &amp; Sex Selection – GENdoc63B</masterLabel>
+        <translation><!-- Consent to Embryo Biopsey &amp;PGT A for Aneuploidy &amp; Sex Selection – GENdoc63B --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Consent to Embryo Biopsey &amp;PGT for Chromosome Rearrangements &amp; Aneuploidy - GENdoc58b</masterLabel>
+        <translation><!-- Consent to Embryo Biopsey &amp;PGT for Chromosome Rearrangements &amp; Aneuploidy - GENdoc58b --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Consent to Embryo Biopsey &amp;PGT for single Gene Disorders &amp; Aneuploidy – GENdoc66</masterLabel>
+        <translation><!-- Consent to Embryo Biopsey &amp;PGT for single Gene Disorders &amp; Aneuploidy – GENdoc66 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Consent to Embryo Biopsy &amp; PGT-A for Aneuploidy - GENdoc57b</masterLabel>
+        <translation><!-- Consent to Embryo Biopsy &amp; PGT-A for Aneuploidy - GENdoc57b --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Consent to Freeze Sperm for Donation – GENdoc5B</masterLabel>
+        <translation><!-- Consent to Freeze Sperm for Donation – GENdoc5B --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Consent to Freeze and Store Embryos – GENdoc3</masterLabel>
+        <translation><!-- Consent to Freeze and Store Embryos – GENdoc3 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Consent to Freeze and Store Oocytes / Ovarian Tissue – GENdoc6</masterLabel>
+        <translation><!-- Consent to Freeze and Store Oocytes / Ovarian Tissue – GENdoc6 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Consent to Freeze and Store Sperm/Testicular Tissue – GENdoc5</masterLabel>
+        <translation><!-- Consent to Freeze and Store Sperm/Testicular Tissue – GENdoc5 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Consent to Receive Donated Eggs – GENdoc23</masterLabel>
+        <translation><!-- Consent to Receive Donated Eggs – GENdoc23 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Consent to Receive Donor Sperm – GENdoc24</masterLabel>
+        <translation><!-- Consent to Receive Donor Sperm – GENdoc24 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Consent to Thaw and Transfer Frozen Embryos – GENdoc4</masterLabel>
+        <translation><!-- Consent to Thaw and Transfer Frozen Embryos – GENdoc4 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Counsellor&apos;s Report (Manual Upload)</masterLabel>
+        <translation><!-- Counsellor&apos;s Report (Manual Upload) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Cycle/Operative Consent</masterLabel>
+        <translation><!-- Cycle/Operative Consent --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Financial Consent</masterLabel>
+        <translation><!-- Financial Consent --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>GENdoc1 Informed consent process</masterLabel>
+        <translation><!-- GENdoc1 Informed consent process --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Lifestyle Declaration for Egg Sperm and Embryo Donors – GENdoc19</masterLabel>
+        <translation><!-- Lifestyle Declaration for Egg Sperm and Embryo Donors – GENdoc19 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Patient Registration Form – Adoc13</masterLabel>
+        <translation><!-- Patient Registration Form – Adoc13 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Principal Consent</masterLabel>
+        <translation><!-- Principal Consent --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

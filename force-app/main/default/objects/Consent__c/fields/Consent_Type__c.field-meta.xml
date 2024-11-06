@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Consent_Type__c</fullName>
+    <externalId>false</externalId>
+    <label>Consent Type</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Principal Consents</fullName>
+                <default>false</default>
+                <label>Principal Consent</label>
+            </value>
+            <value>
+                <fullName>Cycle Consent</fullName>
+                <default>false</default>
+                <label>Cycle/Operative Consent</label>
+            </value>
+            <value>
+                <fullName>Disposal Consent</fullName>
+                <default>false</default>
+                <label>Counsellor&apos;s Report (Manual Upload)</label>
+            </value>
+            <value>
+                <fullName>Financial Consent</fullName>
+                <default>false</default>
+                <label>Financial Consent</label>
+            </value>
+            <value>
+                <fullName>Consent for Superovulation Therapy - GENdoc16</fullName>
+                <default>false</default>
+                <label>Consent for Superovulation Therapy - GENdoc16</label>
+            </value>
+            <value>
+                <fullName>ART - Assisted Reproductive Technology Procedures - GENdoc2</fullName>
+                <default>false</default>
+                <label>ART - Assisted Reproductive Technology Procedures - GENdoc2</label>
+            </value>
+            <value>
+                <fullName>Consent for IUI - GENdoc17</fullName>
+                <default>false</default>
+                <label>Consent for IUI - GENdoc17</label>
+            </value>
+            <value>
+                <fullName>Confirmation of Personal Details and Fertility History - GENdoc72</fullName>
+                <default>false</default>
+                <label>Confirmation of Personal Details and Fertility History - GENdoc72</label>
+            </value>
+            <value>
+                <fullName>Consent to Freeze and Store Embryos – GENdoc3</fullName>
+                <default>false</default>
+                <label>Consent to Freeze and Store Embryos – GENdoc3</label>
+            </value>
+            <value>
+                <fullName>Confirmation of Personal Details and Fertility History – GENdoc72</fullName>
+                <default>false</default>
+                <label>Confirmation of Personal Details and Fertility History – GENdoc72</label>
+            </value>
+            <value>
+                <fullName>Consent to Thaw and Transfer Frozen Embryos – GENdoc4</fullName>
+                <default>false</default>
+                <label>Consent to Thaw and Transfer Frozen Embryos – GENdoc4</label>
+            </value>
+            <value>
+                <fullName>Consent to Freeze and Store Sperm/Testicular Tissue – GENdoc5</fullName>
+                <default>false</default>
+                <label>Consent to Freeze and Store Sperm/Testicular Tissue – GENdoc5</label>
+            </value>
+            <value>
+                <fullName>Consent to Freeze and Store Oocytes / Ovarian Tissue – GENdoc6</fullName>
+                <default>false</default>
+                <label>Consent to Freeze and Store Oocytes / Ovarian Tissue – GENdoc6</label>
+            </value>
+            <value>
+                <fullName>Patient Registration Form – Adoc13</fullName>
+                <default>false</default>
+                <label>Patient Registration Form – Adoc13</label>
+            </value>
+            <value>
+                <fullName>Lifestyle Declaration for Egg Sperm and Embryo Donors – GENdoc19</fullName>
+                <default>false</default>
+                <label>Lifestyle Declaration for Egg Sperm and Embryo Donors – GENdoc19</label>
+            </value>
+            <value>
+                <fullName>Consent to Donate Sperm – GENdoc21</fullName>
+                <default>false</default>
+                <label>Consent to Donate Sperm – GENdoc21</label>
+            </value>
+            <value>
+                <fullName>Consent to Freeze Sperm for Donation – GENdoc5B</fullName>
+                <default>false</default>
+                <label>Consent to Freeze Sperm for Donation – GENdoc5B</label>
+            </value>
+            <value>
+                <fullName>Consent to Donate Embryos – GENdoc22</fullName>
+                <default>false</default>
+                <label>Consent to Donate Embryos – GENdoc22</label>
+            </value>
+            <value>
+                <fullName>Consent to Receive Donated Eggs – GENdoc23</fullName>
+                <default>false</default>
+                <label>Consent to Receive Donated Eggs – GENdoc23</label>
+            </value>
+            <value>
+                <fullName>Consent to Receive Donor Sperm – GENdoc24</fullName>
+                <default>false</default>
+                <label>Consent to Receive Donor Sperm – GENdoc24</label>
+            </value>
+            <value>
+                <fullName>Consent to Embryo Biopsy &amp; PGT-A for Aneuploidy - GENdoc57b</fullName>
+                <default>false</default>
+                <label>Consent to Embryo Biopsy &amp; PGT-A for Aneuploidy - GENdoc57b</label>
+            </value>
+            <value>
+                <fullName>Consent to Embryo Biopsey &amp;PGT for Chromosome Rearrangements &amp; Aneuploidy - GENdoc58b</fullName>
+                <default>false</default>
+                <label>Consent to Embryo Biopsey &amp;PGT for Chromosome Rearrangements &amp; Aneuploidy - GENdoc58b</label>
+            </value>
+            <value>
+                <fullName>Consent to Embryo Biopsey &amp;PGT A for Aneuploidy &amp; Sex Selection – GENdoc63B</fullName>
+                <default>false</default>
+                <label>Consent to Embryo Biopsey &amp;PGT A for Aneuploidy &amp; Sex Selection – GENdoc63B</label>
+            </value>
+            <value>
+                <fullName>Consent to Embryo Biopsey &amp;PGT for single Gene Disorders &amp; Aneuploidy – GENdoc66</fullName>
+                <default>false</default>
+                <label>Consent to Embryo Biopsey &amp;PGT for single Gene Disorders &amp; Aneuploidy – GENdoc66</label>
+            </value>
+            <value>
+                <fullName>GENdoc1 Informed consent process</fullName>
+                <default>false</default>
+                <label>GENdoc1 Informed consent process</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

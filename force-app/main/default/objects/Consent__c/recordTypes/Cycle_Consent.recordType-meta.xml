@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Cycle_Consent</fullName>
+    <active>true</active>
+    <label>Cycle Consent</label>
+    <picklistValues>
+        <picklist>Consent_Type__c</picklist>
+        <values>
+            <fullName>ART - Assisted Reproductive Technology Procedures - GENdoc2</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Confirmation of Personal Details and Fertility History %E2%80%93 GENdoc72</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Confirmation of Personal Details and Fertility History - GENdoc72</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Consent for IUI - GENdoc17</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Consent for Superovulation Therapy - GENdoc16</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Consent to Donate Embryos %E2%80%93 GENdoc22</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Consent to Donate Sperm %E2%80%93 GENdoc21</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Consent to Embryo Biopsey %26PGT A for Aneuploidy %26 Sex Selection %E2%80%93 GENdoc63B</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Consent to Embryo Biopsey %26PGT for Chromosome Rearrangements %26 Aneuploidy - GENdoc58b</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Consent to Embryo Biopsey %26PGT for single Gene Disorders %26 Aneuploidy %E2%80%93 GENdoc66</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Consent to Embryo Biopsy %26 PGT-A for Aneuploidy - GENdoc57b</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Consent to Freeze Sperm for Donation %E2%80%93 GENdoc5B</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Consent to Freeze and Store Embryos %E2%80%93 GENdoc3</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Consent to Freeze and Store Oocytes %2F Ovarian Tissue %E2%80%93 GENdoc6</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Consent to Freeze and Store Sperm%2FTesticular Tissue %E2%80%93 GENdoc5</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Consent to Receive Donated Eggs %E2%80%93 GENdoc23</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Consent to Receive Donor Sperm %E2%80%93 GENdoc24</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Consent to Thaw and Transfer Frozen Embryos %E2%80%93 GENdoc4</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Cycle Consent</fullName>
+            <default>true</default>
+        </values>
+        <values>
+            <fullName>Disposal Consent</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>GENdoc1 Informed consent process</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Lifestyle Declaration for Egg Sperm and Embryo Donors %E2%80%93 GENdoc19</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Patient Registration Form %E2%80%93 Adoc13</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Principal Consents</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>

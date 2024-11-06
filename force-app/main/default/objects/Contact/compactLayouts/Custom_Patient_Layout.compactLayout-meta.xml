@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Custom_Patient_Layout</fullName>
+    <fields>Patient_Details_Custom_Header__c</fields>
+    <fields>Patient_ID__c</fields>
+    <fields>Partner__c</fields>
+    <fields>Age__c</fields>
+    <fields>Mailing_Address__c</fields>
+    <fields>Treating_Doctor__c</fields>
+    <label>Custom Patient Layout</label>
+</CompactLayout>
